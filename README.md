@@ -3,7 +3,7 @@ A reduced replication of quantum-dot autotuning workflows, inspired by Kalantre 
 
 ---
 
-#### Quantum-Dot Transition Segmentation
+### Quantum-Dot Transition Segmentation
 
 ## Status
 Work in progress. No quantitative results are available yet.
